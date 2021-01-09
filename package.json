@@ -1,0 +1,23 @@
+{
+  "name": "messageapp",
+  "version": "1.0.0",
+  "description": "Real Time messages app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ManojKashyap-official/messageAPP.git"
+  },
+  "author": "monty",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ManojKashyap-official/messageAPP/issues"
+  },
+  "homepage": "https://github.com/ManojKashyap-official/messageAPP#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "pusher": "^4.0.2"
+  }
+}
